@@ -1,5 +1,3 @@
-//32 i poxaren sizeof(int) em grum sxal e tpum
-
 #include <iostream>
 
 class Bitset
